@@ -12,7 +12,7 @@ TrustChain enables professionals to register their credentials, get verified by 
 - **Verification System**: Trusted authorities can verify user credentials
 - **Achievement Records**: Verified users can create achievement records
 - **Peer Endorsements**: Community members can endorse and validate achievements
-- **Trust Scoring**: Dynamic trust score calculation based on endorsements and activity
+- **Trust Scoring**: Dynamic trust score calculation based on endorsements and activity.
 
 ## Smart Contract Functions
 
@@ -35,7 +35,7 @@ TrustChain enables professionals to register their credentials, get verified by 
 
 ### Prerequisites
 - [Clarinet](https://github.com/hirosystems/clarinet) for local development and testing
-- [Stacks CLI](https://docs.stacks.co/references/stacks-cli) for deployment
+- [Stacks CLI](https://docs.stacks.co/references/stacks-cli) for deployment.
 
 ### Testing
 Run tests with Clarinet:
